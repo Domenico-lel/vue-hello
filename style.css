@@ -1,0 +1,11 @@
+body{
+    background-color: lightslategrey;
+}
+
+#title{
+    display: flex;
+}
+
+h1{
+    margin:  0 auto;
+}
